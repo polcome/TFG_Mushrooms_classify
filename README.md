@@ -9,3 +9,5 @@ Com bé s'especifica en el document del treball, la base de dades inicial ha pat
 # TFG_MobileNet.ipynb
 Aquest és el document amb els resultats finals, el més important.
 
+### el model final no està penjat, ja que pesava més de 25MB
+
